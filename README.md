@@ -1,4 +1,5 @@
-### Hi there 👋
+### Beep boop, I'm a computer
+I only serve from slow servers.
 
 <!--
 **JayAndCatchFire/JayAndCatchFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
