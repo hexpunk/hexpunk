@@ -1,5 +1,5 @@
 ### Beep boop, I'm a computer
-I only serve from slow servers.
+I am now telling the computer exactly what he can do with a lifetime supply of chocolate.
 
 <!--
 **JayAndCatchFire/JayAndCatchFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
