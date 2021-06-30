@@ -1,5 +1,14 @@
 ### Beep boop, I'm a computer
-I am now telling the computer _exactly_ what he can do with a lifetime supply of chocolate.
+
+
+Bless us, O Executive! and these Thy gifts,<br/>
+Which we are about to receive from Thy capital,<br/>
+Through which we may earn our survival.<br/>
+Amen.
+
+We give Thee thanks, Almighty Corporation, for all Thy wages,<br/>
+Who remain profitable and reign for ever and ever.<br/>
+Amen.
 
 <!--
 **JayAndCatchFire/JayAndCatchFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
