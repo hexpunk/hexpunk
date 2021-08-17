@@ -1,4 +1,6 @@
-### Beep boop, I'm a computer
+> Computers are warm rocks we tricked into doing math and it’s a miracle they do anything.
+>
+> -- [<cite>Collin Lysford</cite>](https://desystemize.substack.com/p/desystemize-7)
 
 <!--
 **JayAndCatchFire/JayAndCatchFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
