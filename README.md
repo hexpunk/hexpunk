@@ -2,6 +2,10 @@
 >
 > -- [<cite>Collin Lysford</cite>](https://desystemize.substack.com/p/desystemize-7)
 
+> Lisp isn't a language, it's a building material.
+>
+> -- Alan Kay
+
 <!--
 **JayAndCatchFire/JayAndCatchFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
